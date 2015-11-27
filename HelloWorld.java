@@ -4,4 +4,8 @@ public class HelloWorld
   {
     System.out.print("Hello World!");
   }
+  public void add()
+    ｛
+
+     ｝
 }
